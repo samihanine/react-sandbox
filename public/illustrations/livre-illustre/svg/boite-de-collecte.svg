@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-40 -20 290 170" width="1160" height="680"><style>@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..800&amp;family=Figtree:wght@400;800&amp;display=swap");</style><defs><symbol id="i-heart" viewBox="0 0 64 64"><path d="M32 54C14 42 8 31 8 23a12 12 0 0 1 24-4 12 12 0 0 1 24 4c0 8-6 19-24 31z"/></symbol><symbol id="i-puzzle" viewBox="0 0 64 64"><path stroke-linejoin="round" d="M12 20h10a5 5 0 1 1 10 0h10v10a5 5 0 1 1 0 10v10H32a5 5 0 1 0-10 0H12V40a5 5 0 1 1 0-10z"/></symbol><pattern id="plaid" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#f7efe0"/><rect width="6" height="16" fill="#2f6d6a" opacity=".5"/><rect width="16" height="6" fill="#2f6d6a" opacity=".5"/><path d="M11 0v16M0 11h16" stroke="#d4553a" stroke-width="1" opacity=".6"/></pattern></defs>
+      <rect x="30" y="-10" width="36" height="52" rx="3" fill="#2f6d6a" transform="rotate(-10 48 16)"/>
+      <rect x="70" y="-4" width="50" height="40" rx="3" fill="#5a3526"/><g fill="#d9a56b"><circle cx="82" cy="8" r="5"/><circle cx="96" cy="8" r="5"/><circle cx="110" cy="8" r="5"/></g>
+      <path d="M128 18a20 20 0 0 1 40 0z" fill="#d4553a"/><circle cx="148" cy="-6" r="9" fill="#f7efe0"/><rect x="124" y="16" width="48" height="10" rx="4" fill="#b2412b"/>
+      <rect x="96" y="6" width="44" height="54" rx="3" fill="#fff" transform="rotate(8 118 33)" stroke="#e8dccb"/>
+      <use xlink:href="#i-heart" x="106" y="18" width="24" height="24" fill="#d4553a" transform="rotate(8 118 33)"/>
+      <path d="M0 40l20-22h168l20 22z" fill="#b98550"/>
+      <path d="M-8 40h224l-12 104H4z" fill="#d9a56b"/>
+      <path d="M-8 40l-26 24 30 6zM216 40l26 24-30 6z" fill="#b98550"/>
+      <circle cx="104" cy="94" r="28" fill="#f7efe0"/>
+      <use xlink:href="#i-heart" x="82" y="72" width="44" height="44" fill="#d4553a"/>
+    </svg>

@@ -1,0 +1,20 @@
+// Fonts used by the posters, bundled with the app so the page and the exports work offline.
+import "@fontsource-variable/fraunces/full.css";
+import "@fontsource-variable/fraunces/full-italic.css";
+import "@fontsource-variable/figtree/wght.css";
+import "@fontsource-variable/figtree/wght-italic.css";
+import "@fontsource-variable/jost/wght.css";
+import "@fontsource/cormorant-garamond/latin-500.css";
+import "@fontsource/cormorant-garamond/latin-600.css";
+import "@fontsource/cormorant-garamond/latin-700.css";
+import "@fontsource/cormorant-garamond/latin-500-italic.css";
+import "@fontsource/cormorant-garamond/latin-600-italic.css";
+import "@fontsource/cormorant-garamond/latin-700-italic.css";
+import "@fontsource/pinyon-script/latin-400.css";
+import "@fontsource/young-serif/latin-400.css";
+import "@fontsource/atkinson-hyperlegible/latin-400.css";
+import "@fontsource/atkinson-hyperlegible/latin-700.css";
+import "@fontsource/atkinson-hyperlegible/latin-400-italic.css";
+import "@fontsource/atkinson-hyperlegible/latin-700-italic.css";
+import "@fontsource/dm-serif-display/latin-400.css";
+import "@fontsource/dm-serif-display/latin-400-italic.css";
